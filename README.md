@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
