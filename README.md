@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
