@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
@@ -116,9 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
