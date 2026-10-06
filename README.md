@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
+| [0904-fruit-into-baskets](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
