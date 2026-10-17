@@ -11,3 +11,4 @@ class Solution:
             curr = next_node
 
         return prev
+ 
