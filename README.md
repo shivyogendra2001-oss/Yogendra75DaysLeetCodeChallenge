@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivyogendra2001-oss/Yogendra75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
